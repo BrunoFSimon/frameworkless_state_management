@@ -14,7 +14,5 @@ class Counter extends ValueNotifier<CounterState> {
     } catch (e) {
       value = CounterErrorState(error: e.toString());
     }
-
-    notifyListeners();
   }
 }
