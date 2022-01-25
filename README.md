@@ -1,3 +1,3 @@
-# frameworkless_state_management
+# Frameworkless State Management Sample
 
-## Sample about how to manage states without packages like Mobx or Getx
+A sample about how to manage states without packages like Mobx or Getx
